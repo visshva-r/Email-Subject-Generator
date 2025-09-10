@@ -1,4 +1,4 @@
-# Email Subject Line Generator (ACM‑SIGAPP Recruitment)
+# Email Subject Line Generator
 
 This repo contains a Jupyter Notebook that generates catchy **email subject lines** from brief descriptions using a pretrained **GPT‑2** model (Hugging Face `transformers`).
 
@@ -22,4 +22,5 @@ This repo contains a Jupyter Notebook that generates catchy **email subject line
 - Tune prompt templates & decoding parameters to improve results.
 
 ## Author
-Your Name
+Visshva R
+
