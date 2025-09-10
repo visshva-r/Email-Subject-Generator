@@ -1,0 +1,72 @@
+[
+  {
+    "description":"Email about upcoming event",
+    "generated_subject":"Upcoming Event",
+    "len_words":2
+  },
+  {
+    "description":"Email about upcoming event",
+    "generated_subject":"The World of Warcraft Event",
+    "len_words":5
+  },
+  {
+    "description":"Reminder for payment due tomorrow",
+    "generated_subject":"Reminder Payment Due Tomorrow",
+    "len_words":4
+  },
+  {
+    "description":"Reminder for payment due tomorrow",
+    "generated_subject":"Payment Due to Your Payday",
+    "len_words":5
+  },
+  {
+    "description":"Discount offer on electronics",
+    "generated_subject":"Discount Offer Electronics",
+    "len_words":3
+  },
+  {
+    "description":"Discount offer on electronics",
+    "generated_subject":"Discount Offers to People Who",
+    "len_words":5
+  },
+  {
+    "description":"Meeting rescheduled to next week",
+    "generated_subject":"Meeting Rescheduled Next Week",
+    "len_words":4
+  },
+  {
+    "description":"Meeting rescheduled to next week",
+    "generated_subject":"Got More Than Two Hours",
+    "len_words":5
+  },
+  {
+    "description":"Welcome email for new subscribers",
+    "generated_subject":"Welcome New Subscribers",
+    "len_words":3
+  },
+  {
+    "description":"Welcome email for new subscribers",
+    "generated_subject":"Read The Following Guidelines When",
+    "len_words":5
+  },
+  {
+    "description":"Follow-up on interview schedule",
+    "generated_subject":"Follow up Interview Schedule",
+    "len_words":4
+  },
+  {
+    "description":"Follow-up on interview schedule",
+    "generated_subject":"All Comments Will be Posted",
+    "len_words":5
+  },
+  {
+    "description":"Webinar invitation for AI trends",
+    "generated_subject":"Webinar Invitation AI Trends",
+    "len_words":4
+  },
+  {
+    "description":"Webinar invitation for AI trends",
+    "generated_subject":"AI Trends at Google Conference",
+    "len_words":5
+  }
+]
