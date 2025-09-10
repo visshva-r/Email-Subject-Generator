@@ -23,4 +23,3 @@ This repo contains a Jupyter Notebook that generates catchy **email subject line
 
 ## Author
 Visshva R
-
